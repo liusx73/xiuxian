@@ -128,7 +128,6 @@ function SceneContent() {
         color={realm.color}
         anchorX="center"
         anchorY="middle"
-        font="/fonts/noto-sans-sc.woff"
       >
         {realm.name}
       </Text>
